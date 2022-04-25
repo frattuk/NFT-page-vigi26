@@ -131,10 +131,6 @@ button {
   border-bottom: 2px solid #e3e3e3;
 }
 
-.cards img, .card-list {
-    display: block;
-}
-
 .cards h5 {
   color: rgb(94, 86, 86);
 }
