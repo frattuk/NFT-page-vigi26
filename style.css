@@ -149,6 +149,10 @@ button {
   padding: 8px;
 }
 
+.list-right {
+  text-align: end;
+}
+
 .bottom {
   height: 60vh;
   display: flex;
